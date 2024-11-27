@@ -4,3 +4,5 @@ private_ipynb/
 venv/
 __pycache__
 env
+*.db
+*.json
